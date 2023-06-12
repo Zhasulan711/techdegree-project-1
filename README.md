@@ -1,2 +1,2 @@
 # techdegree-project-1
- my fist treehouse.techdegree project
+ my first treehouse.techdegree project
