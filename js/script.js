@@ -114,7 +114,7 @@ const intervalID = setInterval(function () {
  * click event listener for the print quote button
  * DO NOT CHANGE THE CODE BELOW!!
 ***/
-// i find information about regular intervals in this links https://developer.mozilla.org/en-US/docs/Web/API/setInterval and https://doka.guide/js/setinterval/
+// i find information about getElementary in this link https://www.w3schools.com/jsref/met_element_addeventlistener.asp
 document.getElementById("load-quote").addEventListener(
   "click",
   function () {
